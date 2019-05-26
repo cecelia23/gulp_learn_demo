@@ -1,0 +1,21 @@
+{
+  "name": "gulp_demo",
+  "version": "1.0.0",
+  "author": "cecelia",
+  "license": "ISC",
+  "description": "an exercise with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp",
+    "gulp-watch": "gulp watch"
+  },
+  "dependencies": {
+    "del": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-less": "^4.0.1"
+  }
+}
